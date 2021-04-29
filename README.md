@@ -8,4 +8,4 @@ Hey There! My name is Topscientist and I am a python and web programmer! I am cu
 - 💬 Ask me about... **Anything**...
 
 - 📫 How to reach me:
-- Want To Reach Out? Contact us via my discord!
+- Want To Reach Out? Contact me via my discord!
