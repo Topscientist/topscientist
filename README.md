@@ -5,12 +5,12 @@ Hey There! My name is Topscientist and I am a python and web programmer! I am cu
 - 🔭 I’m currently working on ...
 - Discord Bots, Open source python code, A meta rival and much more!
 
-- 💬 Ask me about... **Anything**...
+- 💬 Ask me about... **Anything (Cough, Well, Most Things, Yknow, Cough)**...
 
 - 📫 How to reach me:
-- Want To Reach Out? Contact me via the Arty's Moderayion Discord Server!
+- Want To Reach Out? Contact me via the Arty's Moderation Discord Server!
 
 **Staus Updates, Coding Updates Ect.**
 
 Currently working in getting some patches out to artys moderation and working on a bot for the minecraft discord!
-Also working on the foundations for SocialHub and getting some admin things done, The org is linked on my profile.
+Also working on the foundations for SocialCabin and getting some admin things done, The org is linked on my profile.
