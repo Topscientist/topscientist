@@ -8,7 +8,7 @@ Hey There! My name is Topscientist and I am a python and web programmer! I am cu
 - 💬 Ask me about... **Anything (Cough, Well, Most Things, Yknow, Cough)**...
 
 - 📫 How to reach me:
-- Want To Reach Out? Contact me via the Arty's Moderation Discord Server!
+- Want To Reach Out? Seems random, but pick a pinned repo and start a discussions convo :]
 
 **Staus Updates, Coding Updates Ect.**
 
