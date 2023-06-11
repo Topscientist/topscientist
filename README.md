@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey There! My name is Topscientist and I am a python and web developer! I am currently working on a discord bot (Artys Modertion) and just general programming life and yeah, That's all I have to say for now, See you around!
+Hey There! My name is Topscientist and I am a python and web developer! I am currently working on a discord bot (Artys Moderation) and just general programming life and yeah, That's all I have to say for now, See you around!
 
 - 🔭 I’m currently working on ...
 - Discord Bots, Open source python code, A meta rival and much more!
