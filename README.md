@@ -1,16 +1,13 @@
-### Hi there 👋
+### Heyo! 👋
 
-Hey There! My name is Topscientist and I am a python and web developer! I am currently working on a discord bot (Artys Moderation) and just general programming life and yeah, That's all I have to say for now, See you around!
+I'm Topscientist and I am a Python and web developer! I am an avid programmer with big dreams and the want to try many new things. I am currently working on many large projects and attempting to learn many new things...
 
-- 🔭 I’m currently working on ...
-- Discord Bots, Open source python code, A meta rival and much more!
+- 🔭 **I’m currently working on:**
+- Discord Bots, A new social media platform (SocialCabin)[https://github.com/SocialCabin] and various things.
 
-- 💬 Ask me about... **Anything (Cough, Well, Most Things, Yknow, Cough)**...
+- 📫 **How to reach me:**
+- Want to reach out? Feel free to pop in and say hi in (World of Coding)[https://discord.gg/program] or contact me directly over discord -> artymartin AKA Arty
 
-- 📫 How to reach me:
-- Want To Reach Out? Contact me via discord - Artymartin3459#9245
-
-**Staus Updates, Coding Updates Ect.**
-
-Currently working in getting some patches out to Artys Moderation and some other bot related things.
-Also working on the foundations for SocialCabin and getting some administrative things done, The org is linked on my profile.
+**🚦 Project Statuses: **
+_SocialCabin_ - Version 1.0B will be avalible to all current beta members starting August. A public beta is in discussion.
+_Artys Moderation_ - I have plans for version 6.0 with some cracking features but these are still in the works!...
