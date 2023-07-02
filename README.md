@@ -3,10 +3,10 @@
 I'm Topscientist and I am a Python and web developer! I am an avid programmer with big dreams and the want to try many new things. I am currently working on many large projects and attempting to learn many new things...
 
 - 🔭 **I’m currently working on:**
-- Discord Bots, A new social media platform (SocialCabin)[https://github.com/SocialCabin] and various things.
+- Discord Bots, A new social media platform (SocialCabin) [https://github.com/SocialCabin] and various things.
 
 - 📫 **How to reach me:**
-- Want to reach out? Feel free to pop in and say hi in (World of Coding)[https://discord.gg/program] or contact me directly over discord -> artymartin AKA Arty
+- Want to reach out? Feel free to pop in and say hi in (World of Coding) [https://discord.gg/program] or contact me directly over discord -> artymartin AKA Arty
 
 **🚦 Project Statuses:**
 
