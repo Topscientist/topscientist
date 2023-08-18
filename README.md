@@ -6,11 +6,11 @@ I'm Topscientist and I am a Python and web developer! I am an avid programmer wi
 - Discord Bots, A new social media platform [SocialCabin](https://github.com/SocialCabin) and various things.
 
 - 📫 **How to reach me:**
-- Want to reach out? Feel free to pop in and say hi in [World of Coding](https://discord.gg/program) or contact me directly over discord -> artymartin AKA Arty
+- Want to reach out? Feel free to pop in and say Hi in [World of Coding](https://discord.gg/program) or contact me directly over discord -> artymartin AKA Arty
 
 **🚦 Project Statuses:**
 
-_SocialCabin_ - Version 1.0B will be avalible to all current beta members starting August. A public beta is in discussion.
+_SocialCabin_ - Version 1.0 is avalible to all current beta members. A public release is in discussion amongst Project Management.
 
 
 _Artys Moderation_ - I have plans for version 6.0 with some cracking features but these are still in the works!...
