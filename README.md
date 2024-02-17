@@ -8,5 +8,5 @@ I'm Topscientist and I am a Python and web developer! I am an avid programmer wi
 - 📫 **How to reach me:**
 - Want to reach out? Feel free to pop in and say Hi in [World of Coding](https://discord.gg/program) or contact me directly over discord -> artymartin AKA Arty
 
-**🚦 Project Statuses:**
+## 🚦 Project Statuses:
 _Artys Moderation_ - I have plans for version 6.0 with some cracking features but these are still in the works!...
